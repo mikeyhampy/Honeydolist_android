@@ -19,8 +19,8 @@ Programming language, libraries and tools used.
 # Useful Websites
 
 Helpful websites I found for this project
-* [Web Site Name](https://developer.android.com/training/basics/firstapp)
-* [Web Site Name](https://firebase.google.com/docs/android/setup#:~:text=Available%20libraries%20%20%20%20Service%20or%20Product,%20%2016.0.0-beta04%20%2025%20more%20rows%20)
+* [Android Developer Tutorial](https://developer.android.com/training/basics/firstapp)
+* [Firebase Android Documentation](https://firebase.google.com/docs/android/setup#:~:text=Available%20libraries%20%20%20%20Service%20or%20Product,%20%2016.0.0-beta04%20%2025%20more%20rows%20)
 
 # Future Work
 
